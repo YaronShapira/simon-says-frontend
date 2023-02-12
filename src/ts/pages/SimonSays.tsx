@@ -41,8 +41,8 @@ export default function SimonSays() {
     }
 
     function onLose() {
+        updateHighScore()
         setGameState(prevGameState => ({ ...prevGameState, isPlaying: false, isLost: true }))
-        
     }
 
     function onStart() {
