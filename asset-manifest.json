@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/simon-says-frontend/static/css/main.7b497193.css",
-    "main.js": "/simon-says-frontend/static/js/main.1bd9f7ba.js",
+    "main.css": "/simon-says-frontend/static/css/main.3a5f7adb.css",
+    "main.js": "/simon-says-frontend/static/js/main.70762bbe.js",
     "static/media/error.wav": "/simon-says-frontend/static/media/error.19d5e99edd667cdc1325.wav",
     "static/media/simonSound1.mp3": "/simon-says-frontend/static/media/simonSound1.be139b4b99ec2b2fae15.mp3",
     "static/media/simonSound3.mp3": "/simon-says-frontend/static/media/simonSound3.3d5f915659a6055e6377.mp3",
     "static/media/simonSound2.mp3": "/simon-says-frontend/static/media/simonSound2.1eb5aa4cd41771f65406.mp3",
     "static/media/simonSound4.mp3": "/simon-says-frontend/static/media/simonSound4.60f3cc7d5750955854a5.mp3",
     "index.html": "/simon-says-frontend/index.html",
-    "main.7b497193.css.map": "/simon-says-frontend/static/css/main.7b497193.css.map",
-    "main.1bd9f7ba.js.map": "/simon-says-frontend/static/js/main.1bd9f7ba.js.map"
+    "main.3a5f7adb.css.map": "/simon-says-frontend/static/css/main.3a5f7adb.css.map",
+    "main.70762bbe.js.map": "/simon-says-frontend/static/js/main.70762bbe.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b497193.css",
-    "static/js/main.1bd9f7ba.js"
+    "static/css/main.3a5f7adb.css",
+    "static/js/main.70762bbe.js"
   ]
 }
